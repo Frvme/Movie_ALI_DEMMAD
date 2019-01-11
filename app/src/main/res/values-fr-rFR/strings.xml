@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie_ALI_DEMMAD</string>
+    <string name="title_home">Acceuil</string>
+    <string name="title_dashboard">Films</string>
+    <string name="title_notifications">Réglages</string>
+</resources>
